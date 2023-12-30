@@ -1,2 +1,2 @@
 # pop-rice
-Contains my popOS desktop ricing files.
+Contains my popOS ricing files.
